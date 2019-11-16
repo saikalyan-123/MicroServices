@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;googlemaps&apos; to &apos;google-maps-service&apos;" description="Rename resource &apos;googlemaps&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/googlemaps" name="google-maps-service" stamp="1572690318311" updateReferences="true"/>
+</session>

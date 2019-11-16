@@ -1,0 +1,14 @@
+package com.google.controller;
+
+public class Snippet {
+	public static void main(String[] args) {
+		<!-- https://mvnrepository.com/artifact/org.springframework.cloud/spring-cloud-starter-netflix-ribbon -->
+		<dependency>
+		    <groupId>org.springframework.cloud</groupId>
+		    <artifactId>spring-cloud-starter-netflix-ribbon</artifactId>
+		    <version>2.1.2.RELEASE</version>
+		</dependency>
+		
+	}
+}
+

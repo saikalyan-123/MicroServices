@@ -1,0 +1,4 @@
+spring.application.name=spring-cloud-config-server-service
+server.port=1000
+spring.cloud.config.git.uri=https://github.com/TestGit56/global-config.git
+spring.profiles.active=dev

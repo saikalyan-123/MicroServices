@@ -1,0 +1,30 @@
+package com.google.controller;
+
+import org.springframework.boot.context.properties.ConfigurationProperties;
+import org.springframework.stereotype.Component;
+
+@Component
+@ConfigurationProperties(prefix="google-maps-service")
+public class GoogleBean {
+	
+	private String message = null;
+	private String duty=null;
+	
+	public String getMessage() {
+		return message;
+	}
+	public void setMessage(String message) {
+		this.message = message;
+	}
+	public String getDuty() {
+		return duty;
+	}
+	public void setDuty(String duty) {
+		this.duty = duty;
+	}
+	
+	
+	
+	
+
+}

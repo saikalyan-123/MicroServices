@@ -1,0 +1,8 @@
+package com.google.controller;
+
+public class GooglewithSampleBean {
+	
+	private String message = null;
+	pr
+
+}
